@@ -1,5 +1,5 @@
 # TPO-INFO
-── .✦.⋆♱ The Pinewood Orphanage are no longer safe. An unknown evil-being is lurking within the children, mimicking to be one of them. One by one, innocent souls were taken. Alas, the adult is turning on a blind eye for God knows what reason. Therefore, The children (players) have to take matters into their own hands and eliminate the Mimic, fast.
+── .✦.⋆♱ The Pinewood Orphanage were no longer safe. An unknown evil-being is lurking within the children, mimicking to be one of them. One by one, innocent souls were taken. Alas, the adult is turning on a blind eye for God knows what reason. Therefore, The children (players) have to take matters into their own hands and eliminate the Mimic, fast.
 
 
 
