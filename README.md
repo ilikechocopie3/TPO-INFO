@@ -8,7 +8,7 @@
 
 ࣪ ִֶָ☾. A picture of Mother Rosary praying. - 1/6/1990 { taken by The Investigator }
 
-" she became so quiet. Or should i say, unbothered? She's always praying day and night. We weren't sure if it was upon grieve or something else. "
+" she became so quiet. Or should i say, unbothered? She's always praying day and night. We weren't sure if it was upon grieve or something else. " -The Investigator
 
  5/6/1990- " we're lost. Every other night, even more children went missing. And i can't get a hold of anything! if it weren't Mother Rosary herself, could it be one of us? " ✎﹏﹏﹏﹏
 
@@ -16,12 +16,23 @@
 
 8/6/1990- " We've decided to eliminate every possible suspect. We couldn't risk another death. **I** can't let that happen." ✎﹏﹏﹏﹏
 
-*-The Vigilante.*
+***-The Vigilante.***
 
+5/6/1990, *afternoon* 
+
+-" She was out of the house, so I had to take the chance and sneek in. It was an old book hidden inside the wall of her room. inside was a writing in a language I don't understand, i don't even recognise the handwriting! But there was this one page, written by Mother maybe -"
+✎﹏﹏﹏﹏
+
+<img width="362" height="510" alt="Screenshot 2026-02-21 173658" src="https://github.com/user-attachments/assets/ebf0fdb5-c31b-4380-a58a-9205526ac2ed" />
+
+"I took a picture of it, just in case. " ✎﹏﹏﹏﹏
+
+***-The Investigator***
 
 
 
 <h1>ROLES</h1> 
+
 
 ⓘ { ***'+' are good, '-' are neutral. Mimic/mafia is pure evil.*** }
 
