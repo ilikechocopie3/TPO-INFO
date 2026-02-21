@@ -75,6 +75,10 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
+[ ➕ ] + MEDIC= can choose to heal urself or someone else each night. only works on the mimic's attack. (pls dont mess this up with savior)
+*
+
+*
 [ ⚰ ] + SAVIOR= " you hold a divine power. " **revive a dead person.** uses: 4
 *
 
