@@ -1,12 +1,12 @@
 # TPO-INFO
-── .✦.⋆♱ The Pinewood Orphanage were no longer safe. An unknown evil-being is lurking within the house, mimicking to be one of the children. One by one, innocent souls were taken. Alas, the adult is turning on a blind eye for God knows what reason. Therefore, The children (players) have to take matters into their own hands and eliminate the Mimic, fast.
+── .✦.⋆♱ The Pinewood Orphanage were no longer safe. An unknown evil-being is lurking within the house, mimicking to be one of the children. One by one, innocent souls were taken. Alas, the adult is turning a blind eye for God knows what reason. Therefore, The children (players) have to take matters into their own hands and eliminate the Mimic, fast.
 
 
 
 
 <img width="406" height="488" alt="Screenshot 2026-01-31 174322" src="https://github.com/user-attachments/assets/56ad449a-5490-47fa-b7cd-e78f1bf4a9d1" /> 
 
-࣪ ִֶָ☾. A picture of Mother Rosary praying. - 1/6/1990
+࣪ ִֶָ☾. A picture of Mother Rosary praying. - 1/6/1990 { taken by The Investigator }
 
 " she became so quiet. Or should i say, unbothered? She's always praying day and night. We weren't sure if it was upon grieve or something else. "
 
