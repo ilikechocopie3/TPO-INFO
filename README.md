@@ -14,7 +14,7 @@
 
  6/6/1990- " We've discovered a dead body, rotting within the bushes. She seemed to be one of us, but she was so mangled up we couldn't identify her.." ✎﹏﹏﹏﹏
 
-8/6/1990- " We've decided to eliminate every possible suspect. We couldn't risk another death. *I* can't let that happen. " ✎﹏﹏﹏﹏
+8/6/1990- " We've decided to eliminate every possible suspect. We couldn't risk another death. **I** can't let that happen." ✎﹏﹏﹏﹏
 
 *-The Vigilante.*
 
