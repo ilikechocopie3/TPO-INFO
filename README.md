@@ -75,7 +75,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ ⚰ ] + SAVIOR= " you hold a divine power. " **revive a dead person.** use: 4
+[ ⚰ ] + SAVIOR= " you hold a divine power. " **revive a dead person.** uses: 4
 *
 
 *
@@ -83,7 +83,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ ⚔ ] + GUARDIAN= " i must protect them at all cost. " you MUST **choose who to protect each night.**
+[ ⚔ ] + GUARDIAN= " I must protect them at all cost. " you MUST **choose who to protect each night.**
 *
 
 *
