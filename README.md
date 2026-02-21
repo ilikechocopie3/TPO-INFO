@@ -20,7 +20,7 @@
 
 5/6/1990, *afternoon* 
 
--" She was out of the house, so I had to take the chance and sneek in. It was an old book hidden inside the wall of her room. inside was a writing in a language I don't understand, i don't even recognise the handwriting! But there was this one page, written by Mother maybe -"
+-" She was out of the house, so I had to take the chance and sneek in. It was an old book hidden inside the wall of her room. inside was a writing in a language I don't understand, i don't even recognise the handwriting! But there was this one page with a few notes on it, written by Mother maybe -"
 ✎﹏﹏﹏﹏
 
 <img width="362" height="510" alt="Screenshot 2026-02-21 173658" src="https://github.com/user-attachments/assets/ebf0fdb5-c31b-4380-a58a-9205526ac2ed" />
