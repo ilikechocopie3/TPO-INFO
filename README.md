@@ -38,7 +38,7 @@
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
 
-[ 🩸 ] MIMIC/mafia= "*a demonic being who had woken up to devour innocent flesh*."  devour somebody
+[ 🩸 ] MIMIC/mafia= "*a demonic being that mimic others to devour innocent flesh*."  devour somebody
 every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 1 extra target.**
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
