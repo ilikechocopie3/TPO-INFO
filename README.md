@@ -87,5 +87,9 @@ accuracy is guaranteed if not sabotaged.**
 
 *
 [ 🍞 ] + MUFFIN MAN= give out freshly baked, warm muffins! or it could be rotten ones too. (cant cause death)
+*
+
+*
+[ 🧩 ] + INNOCENT= help votes, gather clues, and most importantly... dont get eaten by the mimic.
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
