@@ -56,12 +56,11 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ 📢 ] - GOSSIPER= " breaking news..! " you could send **an anonymous announcement that will be broadcasted in the day.**
+[ 📢 ] - GOSSIPER= " breaking news..! " you could send **an anonymous announcement that will ONLY be broadcasted in the day.** (+ gain notify perm)
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
 
-[ ⚖ ] + VIGILANTE=  With only one bullet, **you have one chance to aim the rifle towards the mimic.** If u got the wrong
-                     target, you'll die out of guilt the next night. gather clues and made up your mind wisely. (if get revived, your ability will reset.)
+[ ⚖ ] + VIGILANTE=  With only one bullet, **you have one chance to aim the rifle towards the mimic.** If u got the wrong target, you'll die out of guilt the next night. gather clues and made up your mind wisely. (if get revived, your ability will reset.)
 *
 
 *
