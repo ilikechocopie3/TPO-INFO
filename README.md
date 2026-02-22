@@ -1,4 +1,7 @@
 # TPO-INFO
+── .✦.⋆♱  ***The Pinewood Orphanage or TPO*** for short, is a ***themed mafia game*** with a lore inspired by The Promised Neverland!
+
+
 ── .✦.⋆♱ The Pinewood Orphanage were no longer safe. An unknown evil-being is lurking within the house, mimicking to be one of the children. One by one, innocent souls were taken. Alas, the adult is turning a blind eye for God knows what reason. Therefore, The children (players) have to take matters into their own hands and eliminate the Mimic, fast.
 
 
