@@ -1,5 +1,5 @@
 # TPO-INFO
-In this page, you'll see more about the ***LORES*** and a closer look to the ***ROLES***
+In this page, you'll see more about the ***LORES*** and a closer look at the ***ROLES***
 ── .✦.⋆♱  ***The Pinewood Orphanage or TPO*** for short, is a ***themed mafia game*** with a lore inspired by The Promised Neverland! ( the lore is a WIP, hopefully there'll be more updates in the future! ) 
 
 
@@ -51,7 +51,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ 🧨 ] - SABOTEUR= " you despises others success. they all must fail! " can sabotage a target's action to failure. **works on any roles, even the host!(if happens, host wont be able to tell clues for the next day) Guardian is an exception.** uses: 4
+[ 🧨 ] - SABOTEUR= " you despises others success. they all must fail! " **can sabotage a target's action into failure.** this role could also sabotage the host ONCE, making the host unable to give clues the next day. uses: 4
 *
 
 *
@@ -59,7 +59,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ 💉 ] - POISONER= " *they slowly dies by your poison.* " **ur target HAS to be attacked for 3 nights straight to instantly kill them.**
+[ 💉 ] - POISONER= " *they slowly dies by your poison.* " **target must be constantly attacked for 3 nights straight to instantly kill them.**
 *
 
 *
@@ -71,7 +71,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ 📢 ] - GOSSIPER= " breaking news..! " you could send **an anonymous announcement that will ONLY be broadcasted in the day.** (+ gain notify perm)
+[ 📢 ] - GOSSIPER= " breaking news..! " you could send **a negative, anonymous announcement/note that will be broadcasted in the day.**
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
 
@@ -79,7 +79,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ ➕ ] + MEDIC= can choose to heal urself or someone else each night. only works on the mimic's attack. (pls dont mess this up with savior)
+[ ➕ ] + MEDIC= can choose to heal urself or one person each night. only works on the mimic's attack. (pls dont mess this up with savior) uses: unlimited
 *
 
 *
@@ -91,7 +91,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ ⚔ ] + GUARDIAN= " I must protect them at all cost. " you MUST **choose who to protect each night.**
+[ ⚔ ] + GUARDIAN= " I must protect them at all cost. " you MUST **choose who to protect each night. this role is immune to the saboteur attack.** 
 *
 
 *
