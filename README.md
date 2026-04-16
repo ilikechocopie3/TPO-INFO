@@ -67,7 +67,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ 🤡 ] - JOKER= " *i will drag them along in death.* " **your sole purpose is to get voted out, so you could drag a person down with you.**
+[ 🤡 ] - JOKER= " *you will drag them along in death.* " **your sole purpose is to get voted out, so you could drag a person down with you.**
 *
 
 *
@@ -75,11 +75,11 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
 
-[ ⚖ ] + VIGILANTE=  With only one bullet, **you have one chance to aim the rifle towards the mimic.** If u got the wrong target, you'll die out of guilt the next night. gather clues and made up your mind wisely. (if get revived, your ability will reset.)
+[ ⚖ ] + VIGILANTE=  you were given a rigle, **you have one chance to aim it towards the mimic.** If u get the wrong target, you'll die out of guilt the next night. gather clues and made up your mind wisely. (if get revived, your ability will reset.)
 *
 
 *
-[ ➕ ] + MEDIC= can choose to heal urself or one person each night. only works on the mimic's attack. (pls dont mess this up with savior) uses: unlimited
+[ ➕ ] + MEDIC= can choose to heal urself or one person each night. only works on the mimic's attack. (pls dont mess this up with savior) uses: 5
 *
 
 *
@@ -87,7 +87,7 @@ every night. if you're feeling extra hungry, **roll the dice and get 89-100 for 
 *
 
 *
-[ ⚜ ] + ANGEL= " heaven awaits you. " **sacrifice ur own life in order to revive someone.**
+[ ⚜ ] + ANGEL=  **sacrifice ur own life in order to revive someone.** You'll be send to the tacos heaven after death.
 *
 
 *
@@ -108,7 +108,7 @@ accuracy is guaranteed if not sabotaged.**
 *
 
 *
-[ 🧩 ] + INNOCENT= help votes, gather clues, and most importantly... dont get eaten by the mimic.
+[ 🧩 ] + INNOCENT= help votes, gather clues, and most importantly... dont get devoured by the mimic.
 
 ── ⋆⋅☆⋅⋆ ──── ⋆⋅☆⋅⋆ ──
 
