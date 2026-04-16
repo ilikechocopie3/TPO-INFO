@@ -1,5 +1,5 @@
 # TPO-INFO
-In this page, you'll see more about the ***LORES*** and a closer look at the ***ROLES***
+In this page, you'll see more about the ***LORES*** and a closer look to the ***ROLES***
 ── .✦.⋆♱  ***The Pinewood Orphanage or TPO*** for short, is a ***themed mafia game*** with a lore inspired by The Promised Neverland! ( the lore is a WIP, hopefully there'll be more updates in the future! ) 
 
 
